@@ -1,8 +1,8 @@
-baseURL = "https://example.com"
+baseURL = "/"
 title   = "Hello Friend NG"
 languageCode = "en-us"
-theme = "hello-friend-ng"
-
+theme = "ak-hugo-website"
+ak-hugo-website
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
